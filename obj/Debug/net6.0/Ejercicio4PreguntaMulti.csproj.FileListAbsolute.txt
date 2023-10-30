@@ -1,0 +1,14 @@
+C:\Users\csi22-jzarcia\source\repos\Ejercicio4PreguntaMulti\bin\Debug\net6.0\Ejercicio4PreguntaMulti.exe
+C:\Users\csi22-jzarcia\source\repos\Ejercicio4PreguntaMulti\bin\Debug\net6.0\Ejercicio4PreguntaMulti.deps.json
+C:\Users\csi22-jzarcia\source\repos\Ejercicio4PreguntaMulti\bin\Debug\net6.0\Ejercicio4PreguntaMulti.runtimeconfig.json
+C:\Users\csi22-jzarcia\source\repos\Ejercicio4PreguntaMulti\bin\Debug\net6.0\Ejercicio4PreguntaMulti.dll
+C:\Users\csi22-jzarcia\source\repos\Ejercicio4PreguntaMulti\bin\Debug\net6.0\Ejercicio4PreguntaMulti.pdb
+C:\Users\csi22-jzarcia\source\repos\Ejercicio4PreguntaMulti\obj\Debug\net6.0\Ejercicio4PreguntaMulti.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\csi22-jzarcia\source\repos\Ejercicio4PreguntaMulti\obj\Debug\net6.0\Ejercicio4PreguntaMulti.AssemblyInfoInputs.cache
+C:\Users\csi22-jzarcia\source\repos\Ejercicio4PreguntaMulti\obj\Debug\net6.0\Ejercicio4PreguntaMulti.AssemblyInfo.cs
+C:\Users\csi22-jzarcia\source\repos\Ejercicio4PreguntaMulti\obj\Debug\net6.0\Ejercicio4PreguntaMulti.csproj.CoreCompileInputs.cache
+C:\Users\csi22-jzarcia\source\repos\Ejercicio4PreguntaMulti\obj\Debug\net6.0\Ejercicio4PreguntaMulti.dll
+C:\Users\csi22-jzarcia\source\repos\Ejercicio4PreguntaMulti\obj\Debug\net6.0\refint\Ejercicio4PreguntaMulti.dll
+C:\Users\csi22-jzarcia\source\repos\Ejercicio4PreguntaMulti\obj\Debug\net6.0\Ejercicio4PreguntaMulti.pdb
+C:\Users\csi22-jzarcia\source\repos\Ejercicio4PreguntaMulti\obj\Debug\net6.0\Ejercicio4PreguntaMulti.genruntimeconfig.cache
+C:\Users\csi22-jzarcia\source\repos\Ejercicio4PreguntaMulti\obj\Debug\net6.0\ref\Ejercicio4PreguntaMulti.dll
